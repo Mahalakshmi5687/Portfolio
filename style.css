@@ -209,17 +209,17 @@
     width: 40%;
     text-decoration: none;
     text-align: center;
-    background: -webkit-linear-gradient(225deg, rgb(77, 75, 78) 0%, rgb(215, 211, 215) 100%);
+    background: -webkit-linear-gradient(225deg, rgb(77, 75, 80) 0%, rgb(215, 211, 215) 100%);
     padding: 10px 12px;
     border-radius: 25px;
     border: none;
     color: rgb(242, 243, 244);
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 800;
 }
 .resume-btn:hover {
     
-    padding: 12px 15px;
+    padding: 15px 15px;
     border-radius: 25px;
     border-color: black;
 }
