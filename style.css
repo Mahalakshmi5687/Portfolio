@@ -8,7 +8,7 @@
 
 .mass-body{
     background-image: url("images/1302925.jpg");
-    background-size: cover;
+    /* background-size: cover; */
     height: auto;
 }
 
